@@ -18,9 +18,6 @@ to get the Google Map API, you just need to go Google Map platform and get the *
 
 Now you can see the beautiful Google map in your browser.
 
-### Technology used in the project 
-![Angular](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
-
  Thanks <br>
 Avishkar IT Services
 
