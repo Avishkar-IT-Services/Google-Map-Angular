@@ -1,4 +1,4 @@
-### Google-Map-Angular 🚀
+### Google-Map-Angular 
 
 ![image](https://github.com/Avishkar-IT-Services/Google-Map-Angular/assets/137886016/60b40d31-7d0e-4b4c-b17f-60dff433a056)
 
